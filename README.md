@@ -8,3 +8,11 @@ Antes de ejecutar el programa necesitas:
 
 - Python 3 instalado
 - La librería estándar `csv` (ya viene incluida en Python)# agenda
+## Instalación de pandas
+
+Este proyecto utiliza la librería **pandas** para manejar los datos del archivo CSV.
+
+Para instalarla ejecuta:
+
+```bash
+pip install pandas
