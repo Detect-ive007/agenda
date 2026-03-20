@@ -14,5 +14,6 @@ Este proyecto utiliza la librería **pandas** para manejar los datos del archivo
 
 Para instalarla ejecuta:
 
+
 ```bash
 pip install pandas
