@@ -2,6 +2,9 @@
 Este proyecto es una aplicación simple en Python para gestionar una agenda de eventos.  
 Los eventos se almacenan en un archivo CSV.
 
+#Link to the Video
+https://drive.google.com/drive/folders/1eHdzbLb9Z3a64jCXYhD0irTRgslmkBMi?usp=sharing 
+
 ## Requisitos
 
 Antes de ejecutar el programa necesitas:
@@ -17,3 +20,4 @@ Para instalarla ejecuta:
 
 ```bash
 pip install pandas
+
